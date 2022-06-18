@@ -9,5 +9,5 @@ Stwórz folder i otwórz go w VSC (CTRL + K CTRL + O lub File -> Open Folder)
 Stwórz plik readme.md i opisz w nim swój projekt
 W VSC przejdź do zakładki "Source Control" i kliknij "publish to github", a następnie - wybierz opcję "Publish t public repository" - wybierz wszyskie pliki i potwierdź "OK"
 
-git config --global user.name "awiktorska"
-git config --global user.email "wiktorska.aga@gmail.com"
+git config --global user.name "JA"
+git config --global user.email "mail"
