@@ -11,3 +11,9 @@ W VSC przejdź do zakładki "Source Control" i kliknij "publish to github", a na
 
 git config --global user.name "JA"
 git config --global user.email "mail"
+
+
+## Aktualizowanie repozytorium
+1. Wejdż do Source Control
+2. W polu Massage/ Komunikat wpisz nazwe wprowadzonych zmian, a następnie "skomituj" (commit) za pomocą okejki nad Message.
+3. Synchroniuj zmiany
