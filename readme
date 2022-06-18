@@ -17,3 +17,9 @@ git config --global user.email "mail"
 1. Wejdż do Source Control
 2. W polu Massage/ Komunikat wpisz nazwe wprowadzonych zmian, a następnie "skomituj" (commit) za pomocą okejki nad Message.
 3. Synchroniuj zmiany
+
+## Udostępnianie strony - GitHub Pages
+1. wejdź na strone swojego repozytorium
+2. Settings - Pages (po lewej)
+Pod source  zmień none na master/main --> save
+4. Wejdz na str https://"username".github.io/'nazwarepozytorium'/'nazwa folderu'
