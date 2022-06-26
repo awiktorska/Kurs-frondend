@@ -73,6 +73,14 @@ article:nth-child(2){
     background-image: url(https://zwierzaki.pl/wp-content/uploads/2021/12/zebra-1200x675.jpg);
 }
 
+article:nth-child(3){
+    background-image: url(https://bi.im-g.pl/im/c1/85/1a/z27810497AMP,Slon-bez-ciosow.jpg);
+}
+
+article:nth-child(4){
+    background-image: url(https://fajnepodroze.pl/wp-content/uploads/2020/02/zyrafa-w-calej-okazalosci-scaled.jpg);
+}
+
 article:after{
     content: "Zobacz zwierze";
     background-color: red;
