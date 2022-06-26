@@ -106,7 +106,7 @@ button:active{
 
 /*desktop*/
 
-@media (min-widht: 768px){
+@media (min-width: 768px){
     main{
         display:flex;
         
